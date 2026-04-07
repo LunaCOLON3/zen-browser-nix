@@ -1,3 +1,10 @@
+> # this project is now archived
+>
+> im not sure if this project really needs a whole announcement for archival because its pretty simple but its the first thing i made that had any practical use and im proud of that. however, i no longer use zen as my primary browser, so it feels silly to keep this up. i also intend to move to [codeberg](https://codeberg.org/LunaCOLON3) for future projects because [github kinda sucks](https://giveupgithub.org/). anyway, thanks to everyone who used flake. its mostly just code taken from other places with tiny little changes but im still proud of it and im glad i could help some people <3
+>
+> if you still use this, heres a much better one thats actually properly maintained:
+> https://github.com/0xc000022070/zen-browser-flake
+
 # Zen Browser Nix
 ### NixOS and Home Manager modules for Zen Browser
 
